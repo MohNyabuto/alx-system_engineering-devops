@@ -1,2 +1,2 @@
 #!/bin/bash
-head --Lines[3]
+head --lines[3]
